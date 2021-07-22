@@ -1,0 +1,27 @@
+.container-operation{
+  text-align: center;
+  margin: 20px auto;
+}
+.cards{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+  border: 2px solid black;
+  width: 250px;
+  background: white;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  margin-left: 50px;
+}
+
+.card > img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card > p{
+  padding: 10px;
+  margin: 0;
+}

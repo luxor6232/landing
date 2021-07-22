@@ -1,0 +1,18 @@
+.banner{
+  padding: 100px 10px;
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  background-color: black;
+}
+
+.container-banner{
+  padding: 0px 60px;
+}
+.container-banner > h1{
+  font-size: 2em;
+}
+.container-banner > p{
+  padding-bottom: 25px;
+}
